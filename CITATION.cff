@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+@article
 authors:
 Fsih, Emna and Boujelbane, Rahma and Belguith, Lamia Hadrich
 title: "Resources building for sentiment analysis of content disseminated by Tunisian medias in social networks."
