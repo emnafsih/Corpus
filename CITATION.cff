@@ -1,14 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-type: article
-authors:
-- family-names: "Fsih"
+ type: article
+  authors:
+  - family-names: "Fsih"
   given-names: "Emna"
-- family-names: "Boujelbane"
-  given-names: "Rahma"
- - family-names: "Hadrich Belguith"
-  given-names: "Lamia"
-title: "Resources building for sentiment analysis of content disseminated by Tunisian medias in social networks."
-version: 2.0.4
-doi: 10.1007/s10579-023-09697-6
-date-released: 2023
+  - family-names: "Boujelbane"
+    given-names: "Rahma"
+  - family-names: "Hadrich Belguith"
+    given-names: "Lamia"
+  doi: "10.1007/s10579-023-09697-6"
+  journal: "Language Resources and Evaluation"
+  month: 12
+  title: "My awesome research software"
+  year: 2023
