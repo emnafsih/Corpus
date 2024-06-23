@@ -1,8 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
   authors:
   - family-names: "Fsih"
-  given-names: "Emna"
+    given-names: "Emna"
   - family-names: "Boujelbane"
     given-names: "Rahma"
   - family-names: "Hadrich Belguith"
