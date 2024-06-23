@@ -1,14 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "FSIH"
-  given-names: "Emna"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "FSIH"
-  given-names: "Emna"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Corpus"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2024-06-23
-url: "https://github.com/emnafsih/Corpus"
+Fsih, Emna and Boujelbane, Rahma and Belguith, Lamia Hadrich
+title: "Resources building for sentiment analysis of content disseminated by Tunisian medias in social networks."
+doi: 10.1007/s10579-023-09697-6
+date-released: 2023
+}
